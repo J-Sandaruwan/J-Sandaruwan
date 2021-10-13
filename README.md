@@ -16,7 +16,9 @@ I've worked on both stand-alone and distributed systems and have a lot of expert
 
 ### First, solve the problem. Then, write the code.!
 
-
+&nbsp;
+&nbsp;
+<img  src="https://github-profile-trophy.vercel.app/?username=j-sandaruwan"  alt="j-sandaruwan"   width="100%" />
 
 <div  width="100%">
 
@@ -28,4 +30,3 @@ I've worked on both stand-alone and distributed systems and have a lot of expert
 <img align='left'   src="https://github-readme-stats.vercel.app/api?username=j-Sandaruwan&show_icons=true&theme=radical&width=0"  />
 </div>
 
-<img  src="https://github-profile-trophy.vercel.app/?username=j-sandaruwan"  alt="j-sandaruwan"   width="100%" />
