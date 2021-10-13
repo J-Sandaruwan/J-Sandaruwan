@@ -30,7 +30,8 @@ I've worked on both stand-alone and distributed systems and have a lot of expert
 
   
   
-
+<p>
 
  
 <em><b>First, solve the problem. Then, write the code.!</b>  </em>
+</p> 
