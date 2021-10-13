@@ -14,19 +14,19 @@ I've worked on both stand-alone and distributed systems and have a lot of expert
             width: 42%;
         }
 
-@media screen and (max-width: 992px) {
-  
-        .width-42 {
-            width: 42%;
-        }
-}
+            @media screen and (max-width: 992px) {
+            
+                    .width-42 {
+                        width: 42%;
+                    }
+            }
 
-@media screen and (max-width: 600px) {
- 
-        .width-42 {
-            width: 100%;
-        }
-}
+            @media screen and (max-width: 600px) {
+            
+                    .width-42 {
+                        width: 100%;
+                    }
+            }
     </style>
 
 <br/>  
