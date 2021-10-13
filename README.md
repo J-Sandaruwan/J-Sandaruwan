@@ -12,13 +12,14 @@
 
   
 
-I have several experiences in software development from both Standalone Systems and Distributed Systems. In the meantime, I have implemented software using programming languages such as Laravel, HTML, PHP, JSP, Java Swing and Java. I also have a skilled in Robot Operating System(ROS), Android Development, Arduino.
+I have several experiences in software development from both Standalone Systems and Distributed Systems. In the meantime, I have implemented software using programming languages such as Laravel, HTML, PHP, JSP, Java Swing and Java. I also have a skilled in Robot Operating System(ROS), Android Development, Arduino.  
 
 <br/>  
+<p  align="left">  <a  href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=j-sandaruwan"  alt="j-sandaruwan"  /></a>  </p>
 
 <div  width="100%">
 
-<img align='left'   width="45%" height=""  src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-sandaruwan&layout=compact&theme=radical&"  />
+<img align='left'   width="40%" height=""  src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-sandaruwan&layout=compact&theme=radical&"  />
 
 <img align='right'  width="55%"  src="https://github-readme-stats.vercel.app/api?username=j-Sandaruwan&show_icons=true&theme=radical&width=0"  />
 
@@ -27,7 +28,6 @@ I have several experiences in software development from both Standalone Systems 
   
   
 
-<p  align="left">  <a  href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=j-sandaruwan"  alt="j-sandaruwan"  /></a>  </p>
 
  
 <em><b>First, solve the problem. Then, write the code.!</b>  </em>
