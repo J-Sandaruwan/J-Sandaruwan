@@ -1,14 +1,16 @@
 # Welcome !
 
 <h2 >Hi 👋, I'm J-Sandaruwan (ජනිත් සඳරුවන් )</h2>  
-<img src="https://raw.githubusercontent.com/J-Sandaruwan/J-Sandaruwan/main/Images/profile.gif" />
 
-[
-![Linkedin: j-sandaruwan](https://img.shields.io/badge/-Sandaruwan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lathindu-pramuditha/)](https://www.linkedin.com/in/lathindu-pramuditha/)
+<img src="https://raw.githubusercontent.com/J-Sandaruwan/J-Sandaruwan/main/Images/profile.gif" width="100%"/>
+
+[![Linkedin: j-sandaruwan](https://img.shields.io/badge/-Sandaruwan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lj-sandaruwan/)](https://www.linkedin.com/in/j-sandaruwan/)
 
 ![GitHub followers](https://img.shields.io/github/followers/J-Sandaruwan?label=Follow&style=social)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=J-Sandaruwan.J-Sandaruwan)
+
+<img src="https://raw.githubusercontent.com/J-Sandaruwan/J-Sandaruwan/main/Images/profile.gif" >
 
 I have several experiences in software development from both Standalone Systems and Distributed Systems. In the meantime, I have implemented software using programming languages such as Laravel, HTML, PHP, JSP, Java Swing and Java. I also have a skilled in Robot Operating System(ROS), Android Development, Arduino, Leadership and Project Management.
 
