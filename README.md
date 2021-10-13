@@ -27,8 +27,7 @@ I've worked on both stand-alone and distributed systems and have a lot of expert
 <img align='left'  width="53%"  src="https://github-readme-stats.vercel.app/api?username=j-Sandaruwan&show_icons=true&theme=radical&width=0"  />
 </div>
 
-<br/>  
-<br/>  
-<br/>  
+&nbsp;
+&nbsp;
 
 ### First, solve the problem. Then, write the code.!
