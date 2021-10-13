@@ -2,7 +2,9 @@
 
 <h2 >Hi 👋, I'm J-Sandaruwan (ජනිත් සඳරුවන් )</h2>  
 <img src="https://raw.githubusercontent.com/J-Sandaruwan/J-Sandaruwan/main/Images/profile.gif" />
-[![Linkedin: j-sandaruwan](https://img.shields.io/badge/-Sandaruwan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lathindu-pramuditha/)](https://www.linkedin.com/in/lathindu-pramuditha/)
+
+[
+![Linkedin: j-sandaruwan](https://img.shields.io/badge/-Sandaruwan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lathindu-pramuditha/)](https://www.linkedin.com/in/lathindu-pramuditha/)
 
 ![GitHub followers](https://img.shields.io/github/followers/J-Sandaruwan?label=Follow&style=social)
 
