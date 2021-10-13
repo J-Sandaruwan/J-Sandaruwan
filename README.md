@@ -14,7 +14,7 @@
 
 I have several experiences in software development from both Standalone Systems and Distributed Systems. In the meantime, I have implemented software using programming languages such as Laravel, HTML, PHP, JSP, Java Swing and Java. I also have a skilled in Robot Operating System(ROS), Android Development, Arduino.
 
-  
+<br/>  
 
 <div  width="100%">
 
