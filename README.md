@@ -20,11 +20,11 @@ I've worked on both stand-alone and distributed systems and have a lot of expert
 
 <div  width="100%">
 
-<img align='right'    width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-sandaruwan&layout=compact&theme=radical&" />
+<img align='right'   src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-sandaruwan&layout=compact&theme=radical&" />
 
 &nbsp;
 &nbsp;
 
-<img align='left'  width="100%"  src="https://github-readme-stats.vercel.app/api?username=j-Sandaruwan&show_icons=true&theme=radical&width=0"  />
+<img align='left'   src="https://github-readme-stats.vercel.app/api?username=j-Sandaruwan&show_icons=true&theme=radical&width=0"  />
 </div>
 
