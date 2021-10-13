@@ -13,32 +13,21 @@ I've worked on both stand-alone and distributed systems and have a lot of expert
         .width-42 {
             width: 42%;
         }
-
-            @media screen and (max-width: 992px) {
-            
-                    .width-42 {
-                        width: 42%;
-                    }
-            }
-
-            @media screen and (max-width: 600px) {
-            
-                    .width-42 {
-                        width: 100%;
-                    }
-            }
     </style>
 
 <br/>  
 <br/>  
 <br/>  
+
+### First, solve the problem. Then, write the code.!
+
 <img  src="https://github-profile-trophy.vercel.app/?username=j-sandaruwan"  alt="j-sandaruwan"   width="100%" />
 
 <div  width="100%">
 
-<img align='right'   height=""  src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-sandaruwan&layout=compact&theme=radical&"  class="width-42"/>
+<img align='right'    width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-sandaruwan&layout=compact&theme=radical&" />
 
-<img align='left'  width="53%"  src="https://github-readme-stats.vercel.app/api?username=j-Sandaruwan&show_icons=true&theme=radical&width=0"  />
+<img align='left'  width="100%"  src="https://github-readme-stats.vercel.app/api?username=j-Sandaruwan&show_icons=true&theme=radical&width=0"  />
 </div>
 
 &nbsp;
@@ -48,4 +37,3 @@ I've worked on both stand-alone and distributed systems and have a lot of expert
 &nbsp;
 &nbsp;
 
-### First, solve the problem. Then, write the code.!
