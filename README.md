@@ -20,7 +20,7 @@ I've worked on both stand-alone and distributed systems and have a lot of expert
 
 <div  width="100%">
 
-<img align='left'   width="43%" height=""  src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-sandaruwan&layout=compact&theme=radical&"  />
+<img align='left'   width="42%" height=""  src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-sandaruwan&layout=compact&theme=radical&"  />
 
 <img align='right'  width="55%"  src="https://github-readme-stats.vercel.app/api?username=j-Sandaruwan&show_icons=true&theme=radical&width=0"  />
 
