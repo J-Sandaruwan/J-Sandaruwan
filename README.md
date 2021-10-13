@@ -9,15 +9,10 @@
 <p>
 I've worked on both stand-alone and distributed systems and have a lot of expertise with software development. In the meanwhile, I've worked with programming languages including Laravel, HTML, PHP, JSP, Java Swing, and Java to create applications. In addition, I am knowledgeable in Robot Operating System (ROS), Android Development, and Arduino. 
 </p> 
-  <style>
-        .width-42 {
-            width: 42%;
-        }
-    </style>
 
-<br/>  
-<br/>  
-<br/>  
+&nbsp;
+&nbsp;
+
 
 ### First, solve the problem. Then, write the code.!
 
