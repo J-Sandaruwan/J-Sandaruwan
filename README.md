@@ -22,7 +22,7 @@ I've worked on both stand-alone and distributed systems and have a lot of expert
   
 :computer: [ Laravel 8 with React(JS) ](https://dev.to/jsandaruwan/laravel-8-with-react-bb8)
 
-:computer: [ Laravel 8 with BBootstrap ](https://dev.to/jsandaruwan/laravel-8-with-bootstrap-58bm)
+:computer: [ Laravel 8 with Bootstrap ](https://dev.to/jsandaruwan/laravel-8-with-bootstrap-58bm)
 </div>
 
 &nbsp;
