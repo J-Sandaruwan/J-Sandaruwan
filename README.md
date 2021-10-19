@@ -29,7 +29,9 @@ I've worked on both stand-alone and distributed systems and have a lot of expert
 <img align='left'   src="https://github-readme-stats.vercel.app/api?username=j-Sandaruwan&show_icons=true&theme=radical&width=0"  />
 </div>
 
+<div  width="100%">
 ## Tutorials
 :computer: [ Laravel 8 with React(JS) ](https://dev.to/jsandaruwan/laravel-8-with-react-bb8)
 
 :computer: [ Laravel 8 with React(JS) ](https://dev.to/jsandaruwan/laravel-8-with-bootstrap-58bm)
+</div>
