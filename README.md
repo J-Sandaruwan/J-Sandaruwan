@@ -15,8 +15,9 @@
 
 <p>
 
-I've worked on both stand-alone and distributed systems and have a lot of expertise with software development. In the meanwhile, I've worked with programming languages including Laravel, HTML, PHP, JSP, Java Swing, and Java to create applications. In addition, I am knowledgeable in Robot Operating System (ROS), Android Development, and Arduino.
+I'm a seasoned Web developer who's ready to help you with your project. If so, you've come to the right place. And what about those who are having difficulties with their website? Send me a message if you'd like to discuss this further.
 
+Full-stack software engineer with over 5 + years of experience. I've got a lot of experience in web and API development. I have been working in the UNIX/Linux Servers.
 </p>
 
 
