@@ -17,7 +17,7 @@
 
 I'm a seasoned Web developer who's ready to help you with your project. If so, you've come to the right place. And what about those who are having difficulties with their website? Send me a message if you'd like to discuss this further.
 
-Full-stack software engineer with over 44 + years of experience. I've got a lot of experience in web and API development. I have been working in the UNIX/Linux Servers.
+Full-stack software engineer with over 4+ years of experience. I've got a lot of experience in web and API development. I have been working in the UNIX/Linux Servers.
 </p>
 
 
