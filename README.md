@@ -9,56 +9,14 @@
 
 ![Linkedin: j-sandaruwan](https://img.shields.io/badge/-Sandaruwan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lj-sandaruwan/)   [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:janith@oktozone.com) ![](https://visitor-badge.glitch.me/badge?page_id=J-Sandaruwan.J-Sandaruwan)
 
-  
-
-
+ 
 
 <p>
 I have several experiences in software development from both Standalone Systems and Distributed Systems. Full-stack software engineer with over 4+ years of experience. I've got a lot of experience in web and API development. I have been working in the UNIX/Linux Servers.
 </p>
 
 
-# My Github Status
-
-
-
-****
-
-<a  href="https://github.com/J-Sandaruwan/handle-path-oz">
-
-<img  align="center"  alt="Janith Sandaruwan's github stats"  src="https://github-readme-stats.vercel.app/api?username=J-Sandaruwan&show_icons=true&theme=midnight-purple"  />
-
-</a>
-
-  
-
-<br>
-
-<br>  
-
-<p  align="center">  <a  href="https://github.com/J-Sandaruwan"><img  src="https://github-profile-trophy.vercel.app/?username=J-Sandaruwan&no-bg=true"  alt="J-Sandaruwan"  /></a>  </p>
-
-  
-  
-
-## Contribution Graph 
-
-  
-
-<p  align="center">
-
-<a  href="https://github.com/j-sandaruwan">
-
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=j-sandaruwan#version3"/>
-
-</a>
-
-</p>
-
-
-<a  href="https://github.com/J-Sandaruwan"><img  alt="J-Sandaruwan Activity Graph"  src="https://activity-graph.herokuapp.com/graph?username=J-Sandaruwan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"  /></a>
-
-## MY TOOLS AND LANG
+## MY TOOLS AND LANGUAGES
 
 <p  align ="center">
 
@@ -103,9 +61,57 @@ I have several experiences in software development from both Standalone Systems 
 ★ Google Geocoding API <br>
 ★ Other API...<br>
 
-## MOST USED LANGUAGES
+##  LANGUAGES
 
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=j-sandaruwan&theme=dark&show_icons=true)
+<p  align="center">  <a  href="https://github.com/J-Sandaruwan"><img  src="https://github-profile-trophy.vercel.app/?username=J-Sandaruwan&no-bg=true"  alt="J-Sandaruwan"  /></a>  </p>
+
+## My Github Status
+
+<p  align="center">
+<a  href="https://github.com/J-Sandaruwan/handle-path-oz">
+
+<img  align="center"  alt="Janith Sandaruwan's github stats"  src="https://github-readme-stats.vercel.app/api?username=J-Sandaruwan&show_icons=true&theme=midnight-purple"  />
+
+</a>
+
+<br>
+  <a  href="https://github.com/J-Sandaruwan/handle-path-oz">
+
+<img  align="center"  alt="Janith Sandaruwan's github stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-sandaruwan&theme=dark&show_icons=true"  />
+
+</a>
+  
+
+
+</p>
+<br>
+
+<br>  
+
+
+
+  
+  
+
+## Contribution Graph 
+
+  
+
+<p  align="center">
+
+<a  href="https://github.com/j-sandaruwan">
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=j-sandaruwan#version3"/>
+
+</a>
+
+</p>
+
+
+<a  href="https://github.com/J-Sandaruwan"><img  alt="J-Sandaruwan Activity Graph"  src="https://activity-graph.herokuapp.com/graph?username=J-Sandaruwan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"  /></a>
 
   
   ### First, solve the problem. Then, write the code.!
+  
+ Regards,
+Janith Sandaruwan
