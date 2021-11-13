@@ -114,4 +114,4 @@ I have several experiences in software development from both Standalone Systems 
   ### First, solve the problem. Then, write the code.!
   
 ######  Regards,
-######  Janith Sandaruwan
+Janith Sandaruwan
