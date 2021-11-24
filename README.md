@@ -107,8 +107,8 @@ I have several experiences in software development from both Standalone Systems 
 
 </p>
 
-
-<a  href="https://github.com/J-Sandaruwan"><img  alt="J-Sandaruwan Activity Graph"  src="https://activity-graph.herokuapp.com/graph?username=J-Sandaruwan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"  /></a>
+<!-- 
+<a  href="https://github.com/J-Sandaruwan"><img  alt="J-Sandaruwan Activity Graph"  src="https://activity-graph.herokuapp.com/graph?username=J-Sandaruwan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"  /></a> -->
 ## My tutorials
 <p>
   <a  href="https://dev.to/jsandaruwan/laravel-8-with-notification-management-48il">🌟  Laravel 8 with notification management</a> 
