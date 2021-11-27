@@ -12,7 +12,7 @@
  
 
 <p>
-I have several experiences in software development from both Standalone Systems and Distributed Systems. Full-stack software engineer with over 4+ years of experience. I've got a lot of experience in web and API development. I have been working in the UNIX/Linux Servers.
+I have a lot of experience in software development, encompassing both Standalone Systems and Distributed Systems. I am an expert in PHP, especially the Laravel framework. I have also specialized in: JavaScript, jQuery, MySQL, Python, HTML5, and CSS3. Furthermore, I have some respectable experience with JSP, Java Swing and Java and Robot Operating System(ROS). As a full stack software developer with more than four years of experience, my repertoire of software development skills is immense. I have extensive expertise in web and API development, and experience with UNIX/Linux servers.
 </p>
 
 
