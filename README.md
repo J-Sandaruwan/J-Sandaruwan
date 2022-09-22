@@ -68,7 +68,6 @@ I have a lot of experience in software development, encompassing both Standalone
 ## My Github Status
 
 <p  align="center">
-<a  href="https://github.com/J-Sandaruwan/handle-path-oz">
 
 <img  align="center"  alt="Janith Sandaruwan's github stats"  src="https://github-readme-stats.vercel.app/api?username=J-Sandaruwan&show_icons=true&theme=midnight-purple"  />
 
