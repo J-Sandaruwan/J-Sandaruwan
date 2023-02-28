@@ -125,7 +125,14 @@ If you're interested in collaborating on a project or connecting with other prof
   <a  href="https://dev.to/jsandaruwan/laravel-8-with-bootstrap-58bm">🌟  Laravel 8 with Bootstrap (Part 1)</a> 
     </p>
     <p>
-  <a  href="https://dev.to/jsandaruwan/laravel-8-with-bootstrap-part-2-4hg8">🌟  Laravel 8 with Bootstrap (Part 22)</a> 
+  <a  href="https://dev.to/jsandaruwan/laravel-8-with-bootstrap-part-2-4hg8">🌟  Laravel 8 with Bootstrap (Part 2)</a> 
+    </p>
+    <p>
+  <a  href="https://dev.to/jsandaruwan/chrome-extension-with-react-70p">🌟  Chrome extension with React</a> 
+    </p>
+
+    <p>
+  <a  href="https://dev.to/jsandaruwan/how-to-get-the-url-of-the-current-tab-from-chrome-extension-3a9l">🌟  Chrome extension with React (how to get the URL of the current tab)</a> 
     </p>
 
   
