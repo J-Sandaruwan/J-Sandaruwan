@@ -130,8 +130,7 @@ If you're interested in collaborating on a project or connecting with other prof
     <p>
   <a  href="https://dev.to/jsandaruwan/chrome-extension-with-react-70p">🌟  Chrome extension with React</a> 
     </p>
-
-    <p>
+   <p>
   <a  href="https://dev.to/jsandaruwan/how-to-get-the-url-of-the-current-tab-from-chrome-extension-3a9l">🌟  Chrome extension with React (how to get the URL of the current tab)</a> 
     </p>
 
