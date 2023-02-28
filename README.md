@@ -12,7 +12,13 @@
  
 
 <p>
-I have a lot of experience in software development, encompassing both Standalone Systems and Distributed Systems. I am an expert in PHP, especially the Laravel framework. I have also specialized in: JavaScript, jQuery, MySQL, Python, HTML5, and CSS3. Furthermore, I have some respectable experience with JSP, Java Swing and Java and Robot Operating System(ROS). As a full stack software developer with more than four years of experience, my repertoire of software development skills is immense. I have extensive expertise in web and API development, and experience with UNIX/Linux servers.
+As a software engineer with a strong foundation in programming languages, including JavaScript, Laravel, PHP, Python, and React, I am equipped to deliver innovative solutions to complex problems. With a Master of Software Engineering degree from Hertfordshire University and a B.Sc (honors) in Information Technology from SLIIT, I have both the education and experience necessary to excel in my field.
+</p>
+<p>
+Over the course of my professional experience, I have worked on various web and mobile applications for clients across industries, honing my expertise in full-stack development, project management, and team leadership. I am always seeking to expand my skill set and stay up-to-date with the latest technologies and methodologies.
+</p>
+<p>
+If you're interested in collaborating on a project or connecting with other professionals in the field, please don't hesitate to reach out. I am committed to delivering high-quality work on time and within budget, and am always looking for opportunities to grow as a software engineer.
 </p>
 
 
