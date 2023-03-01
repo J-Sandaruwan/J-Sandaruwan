@@ -12,6 +12,21 @@ I'm a software engineer with expertise in full-stack development, and I'm passio
 - Trainee Software Engineer at Spera Labs (July 2020 - December 2020)
 - Information Technology Coordinator at Artificial Limb Care (PVT) Ltd. (November 2019 - June 2020)
 
+##Contribution Graph
+<p  align="center">
+
+<a  href="https://github.com/j-sandaruwan">
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=j-sandaruwan#version3"/>
+
+</a>
+
+</p>
+## 📫 Let's connect
+- [LinkedIn](https://www.linkedin.com/in/j-sandaruwan/)
+- [Twitter](https://twitter.com/janithsandaruw)
+- [Dev.to](https://dev.to/jsandaruwan)
+
 ## 🌱 My Tutorials
 
 <p>
@@ -33,19 +48,5 @@ I'm a software engineer with expertise in full-stack development, and I'm passio
   <a  href="https://dev.to/jsandaruwan/how-to-get-the-url-of-the-current-tab-from-chrome-extension-3a9l">🌟  Chrome extension with React (how to get the URL of the current tab)</a> 
 </p>
 
-##Contribution Graph
-<p  align="center">
-
-<a  href="https://github.com/j-sandaruwan">
-
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=j-sandaruwan#version3"/>
-
-</a>
-
-</p>
-## 📫 Let's connect
-- [LinkedIn](https://www.linkedin.com/in/j-sandaruwan/)
-- [Twitter](https://twitter.com/janithsandaruw)
-- [Dev.to](https://dev.to/jsandaruwan)
 
 Thanks for checking out my GitHub profile!
