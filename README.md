@@ -12,7 +12,7 @@ I'm a software engineer with expertise in full-stack development, and I'm passio
 - Trainee Software Engineer at Spera Labs (July 2020 - December 2020)
 - Information Technology Coordinator at Artificial Limb Care (PVT) Ltd. (November 2019 - June 2020)
 
-##Contribution Graph
+## Contribution Graph
 <p  align="center">
 
 <a  href="https://github.com/j-sandaruwan">
