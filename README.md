@@ -1,3 +1,30 @@
+# Hi, I'm Janith Sandaruwan! 👋
+I'm a software engineer with expertise in full-stack development, and I'm passionate about delivering innovative solutions to complex problems. My technical skills include JavaScript, Laravel, PHP, Python, and React. I have a Master of Software Engineering degree from Hertfordshire University and a B.Sc (honors) in Information Technology from SLIIT.
+
+## 🔭 My Experience
+- Software Engineer at Cloud Eight Technologies (April 2022 - December 2022)
+- Software Engineer at Chairsyde (January 2022 - December 2022)
+- Software Engineer at Spera Labs (May 2021 - April 2022)
+- Associate Software Engineer at Spera Labs (January 2021 - March 2022)
+- Trainee Software Engineer at Spera Labs (July 2020 - December 2020)
+- Information Technology Coordinator at Artificial Limb Care (PVT) Ltd. (November 2019 - June 2020)
+
+## 🌱 My Tutorials
+- Laravel 8 with notification management
+- Laravel 8 with React(JS)
+- Laravel 8 with Bootstrap (Part 1)
+- Laravel 8 with Bootstrap (Part 2)
+- Chrome extension with React
+- Chrome extension with React (how to get the URL of the current tab)
+
+## 📫 Let's connect
+- [LinkedIn](https://www.linkedin.com/in/jsandaruwan/)
+- [Twitter](https://twitter.com/jsandaruwan/)
+- [Dev.to](https://dev.to/jsandaruwan)
+
+Thanks for checking out my GitHub profile!
+
+
 
 # Welcome !
 
