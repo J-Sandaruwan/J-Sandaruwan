@@ -12,24 +12,26 @@ I'm a software engineer with expertise in full-stack development, and I'm passio
 - Information Technology Coordinator at Artificial Limb Care (PVT) Ltd. (November 2019 - June 2020)
 
 ## 🌱 My Tutorials
+
 <p>
   <a  href="https://dev.to/jsandaruwan/laravel-8-with-notification-management-48il">🌟  Laravel 8 with notification management</a> 
-  </p>
-  <p>
+</p>
+<p>
   <a  href="https://dev.to/jsandaruwan/laravel-8-with-react-bb8">🌟  Laravel 8 with React(JS)</a> 
-    </p>
-    <p>
+</p>
+<p>
   <a  href="https://dev.to/jsandaruwan/laravel-8-with-bootstrap-58bm">🌟  Laravel 8 with Bootstrap (Part 1)</a> 
-    </p>
-    <p>
+</p>
+<p>
   <a  href="https://dev.to/jsandaruwan/laravel-8-with-bootstrap-part-2-4hg8">🌟  Laravel 8 with Bootstrap (Part 2)</a> 
-    </p>
-    <p>
+</p>
+<p>
   <a  href="https://dev.to/jsandaruwan/chrome-extension-with-react-70p">🌟  Chrome extension with React</a> 
-    </p>
-   <p>
+</p>
+<p>
   <a  href="https://dev.to/jsandaruwan/how-to-get-the-url-of-the-current-tab-from-chrome-extension-3a9l">🌟  Chrome extension with React (how to get the URL of the current tab)</a> 
-    </p>
+</p>
+
 ##Contribution Graph
 <p  align="center">
 
@@ -41,8 +43,8 @@ I'm a software engineer with expertise in full-stack development, and I'm passio
 
 </p>
 ## 📫 Let's connect
-- [LinkedIn](https://www.linkedin.com/in/jsandaruwan/)
-- [Twitter](https://twitter.com/jsandaruwan/)
+- [LinkedIn](https://www.linkedin.com/in/j-sandaruwan/)
+- [Twitter](https://twitter.com/janithsandaruw)
 - [Dev.to](https://dev.to/jsandaruwan)
 
 Thanks for checking out my GitHub profile!
