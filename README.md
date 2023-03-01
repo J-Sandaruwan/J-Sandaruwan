@@ -1,7 +1,6 @@
 # Hi, I'm Janith Sandaruwan! 👋
 
 ![Linkedin: j-sandaruwan](https://img.shields.io/badge/-Sandaruwan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lj-sandaruwan/)   [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:janith@oktozone.com) ![](https://visitor-badge.glitch.me/badge?page_id=J-Sandaruwan.J-Sandaruwan)
-
 <br/>
 I'm a software engineer with expertise in full-stack development, and I'm passionate about delivering innovative solutions to complex problems. My technical skills include JavaScript, Laravel, PHP, Python, and React. I have a Master of Software Engineering degree from Hertfordshire University and a B.Sc (honors) in Information Technology from SLIIT.
 
