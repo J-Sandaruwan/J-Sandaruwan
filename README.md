@@ -5,8 +5,8 @@
 I'm a software engineer with expertise in full-stack development, and I'm passionate about delivering innovative solutions to complex problems. My technical skills include JavaScript, Laravel, PHP, Python, and React. I have a Master of Software Engineering degree from Hertfordshire University and a B.Sc (honors) in Information Technology from SLIIT.
 
 ## 🔭 My Experience
+- Software Engineer at 10 Qbit (January 2022 - Present)
 - Software Engineer at Cloud Eight Technologies (April 2022 - December 2022)
-- Software Engineer at Chairsyde (January 2022 - December 2022)
 - Software Engineer at Spera Labs (May 2021 - April 2022)
 - Associate Software Engineer at Spera Labs (January 2021 - March 2022)
 - Trainee Software Engineer at Spera Labs (July 2020 - December 2020)
