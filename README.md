@@ -1,23 +1,106 @@
 # Hi, I'm Janith Sandaruwan! 👋
 
-![Linkedin: j-sandaruwan](https://img.shields.io/badge/-Sandaruwan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/j-sandaruwan/)   [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:janith@oktozone.com) ![](https://visitor-badge.glitch.me/badge?page_id=J-Sandaruwan.J-Sandaruwan)
-<br/>
-I'm a software engineer with expertise in full-stack development, and I'm passionate about delivering innovative solutions to complex problems. My technical skills include JavaScript, Laravel, PHP, Python, and React. I have a Master of Software Engineering degree from Hertfordshire University and a B.Sc (honors) in Information Technology from SLIIT.
+## A Full-Stack Developer passionate about building intelligent, AI-driven applications.
 
-## 🔭 My Experience
-- Software Engineer at Chairsyde (January 2022 - Present)
-- Software Engineer at Cloud Eight Technologies (April 2022 - December 2022)
-- Software Engineer at Spera Labs (May 2021 - April 2022)
-- Associate Software Engineer at Spera Labs (January 2021 - March 2022)
-- Trainee Software Engineer at Spera Labs (July 2020 - December 2020)
-- Information Technology Coordinator at Artificial Limb Care (PVT) Ltd. (November 2019 - June 2020)
+From building robust web applications with Laravel and React to exploring the frontiers of AI, I am passionate about creating software that solves real-world problems. Having recently completed my MSc in Computer Software Engineering, I am excited to merge my full-stack expertise with machine learning to build the next generation of smart, intuitive tools.
 
-## 📫 Let's connect
-- [LinkedIn](https://www.linkedin.com/in/j-sandaruwan/)
-- [Twitter](https://twitter.com/janithsandaruw)
-- [Dev.to](https://dev.to/jsandaruwan)
+<p align="left">
+  <a href="https://www.linkedin.com/in/j-sandaruwan/" target="blank"><img align="center" src="https://img.shields.io/badge/-j--sandaruwan-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="j-sandaruwan" /></a>
+  <a href="mailto:janith@oktozone.com" target="blank"><img align="center" src="https://img.shields.io/badge/-janith@oktozone.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="janith@oktozone.com" /></a>
+</p>
 
-## Contribution Graph
+---
+
+## 🚀 My Tech Stack & Toolbox
+
+<table>
+  <tr>
+    <td align="center" width="180">
+      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+      <br><strong>Laravel</strong>
+    </td>
+    <td align="center" width="180">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br><strong>React</strong>
+    </td>
+    <td align="center" width="180">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br><strong>Python</strong>
+    </td>
+    <td align="center" width="180">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+      <br><strong>TensorFlow</strong>
+    </td>
+     <td align="center" width="180">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br><strong>JavaScript</strong>
+    </td>
+    <td align="center" width="180">
+      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <br><strong>PHP</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="180">
+      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" />
+      <br><strong>Vue.js</strong>
+    </td>
+    <td align="center" width="180">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br><strong>Next.js</strong>
+    </td>
+    <td align="center" width="180">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br><strong>Node.js</strong>
+    </td>
+    <td align="center" width="180">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br><strong>MySQL</strong>
+    </td>
+    <td align="center" width="180">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br><strong>Docker</strong>
+    </td>
+    <td align="center" width="180">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br><strong>Git</strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🔭 Featured Projects
+
+**Please be sure to update these with your actual repositories!**
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🩸 AI-Powered Blood Bank Management System
+
+> My final year university project. This system uses machine learning to analyze and predict blood supply and demand, helping to optimize inventory management in a critical healthcare setting.
+>
+> **Tech Stack:** Python, Flask, Scikit-learn, Pandas
+
+</td>
+<td width="50%" valign="top">
+
+### 🦷 Chairsyde Chrome Extension
+
+> Co-developed and launched a Chrome extension to enhance user engagement for Chairsyde, a leading dental industry platform.
+> <br>
+>
+> **Tech Stack:** Next.js, Laravel, REST APIs
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 My GitHub Stats
 <p  align="center">
 
 <a  href="https://github.com/j-sandaruwan">
