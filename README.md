@@ -6,7 +6,7 @@ From building robust web applications with Laravel and React to exploring the fr
 
 <p align="left">
   <a href="https://www.linkedin.com/in/j-sandaruwan/" target="blank"><img align="center" src="https://img.shields.io/badge/-j--sandaruwan-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="j-sandaruwan" /></a>
-  <a href="mailto:janith@oktozone.com" target="blank"><img align="center" src="https://img.shields.io/badge/-janith@oktozone.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="janith@oktozone.com" /></a>
+  <a href="mailto:janithsandaruwan29@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-janithsandaruwan29@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="janithsandaruwan29@gmail.com" /></a>
 </p>
 
 ---
