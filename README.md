@@ -105,7 +105,7 @@ From building robust web applications with Laravel and React to exploring the fr
 
 <a  href="https://github.com/j-sandaruwan">
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=j-sandaruwan#version3"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=j-sandaruwan&show_icons=true&locale=en"/>
 
 </a>
 
